@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
 
-<u>Outcomes Based on Goal</u>
+#### Outcomes Based on Goal
 <img src="Outcomes Based On Goal.png"/>
 <p>The plot shows a chart with the following three overlaid lines:</br>
 <ul>
@@ -12,7 +12,7 @@ Performing analysis on Kickstarter data to uncover trends
     <li>a grey line for the cancellation rate vs. campaign goals of the kickstarter campaigns</li>
 </ul>
 
-<p><u>Outcomes Based on Launch Date</u></p>
+#### Outcomes Based on Launch Date
 <img src="Outcomes Based on Launch Date.png"/>
 <p>The plot shows a chart with the folloeinh three overlaid lines:</br>
 <ul>
