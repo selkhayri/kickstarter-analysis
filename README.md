@@ -1,5 +1,11 @@
 # kickstarter_analysis
-Performing analysis on Kickstarter data to uncover trends
+
+## Aim
+
+The aim of this project is to carry out an analysis on Kickstarter data to determine the chances of success for fundraising campaigns based on the following criteria:
+
+* which fundraising targets are the most attainable, and
+* which times of the year to launch a fundraising campaign to achieve best results
 
 ### Analysis
 
